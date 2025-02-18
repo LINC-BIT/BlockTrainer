@@ -10,7 +10,7 @@
   * [3.4 实验结果](#34-实验结果)
 - [4 架构与实现](#4-架构与实现)
 
-![](https://github.com/LINC-BIT/BlockTrainer/blob/master/docs/arch.png)
+![](https://github.com/LINC-BIT/BlockTrainer/blob/master/doc/arch.png)
 
 ## 1 介绍
 
@@ -87,9 +87,9 @@ python dianzixuebao/online_retraining/vit_b_16/img_cls/run.py
 
 ### 3.4 实验结果
 
-![](https://github.com/LINC-BIT/BlockTrainer/blob/master/docs/eval_result.png)
+![](https://github.com/LINC-BIT/BlockTrainer/blob/master/doc/eval_result.png)
 
 
 ## 4 架构与实现
 
-![](https://github.com/LINC-BIT/BlockTrainer/blob/master/docs/impl.png)
+![](https://github.com/LINC-BIT/BlockTrainer/blob/master/doc/impl.png)
