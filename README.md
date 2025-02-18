@@ -7,6 +7,10 @@
   * [3.1 设置](#31-设置)
   * [3.2 离线准备](#32-离线准备)
   * [3.3 在线训练](#33-在线训练)
+  * [3.4 实验结果](#34-实验结果)
+- [4 架构与实现](#4-架构与实现)
+
+![](https://github.com/LINC-BIT/BlockTrainer/blob/master/docs/arch.png)
 
 ## 1 介绍
 
@@ -80,3 +84,12 @@ python dianzixuebao/online_retraining/vit_b_16/img_cls/run.py
 ```
 
 运行命令之前，需将其中的模型路径更改为离线准备中最后一个命令的输出模型路径。
+
+### 3.4 实验结果
+
+![](https://github.com/LINC-BIT/BlockTrainer/blob/master/docs/eval_result.png)
+
+
+## 4 架构与实现
+
+![](https://github.com/LINC-BIT/BlockTrainer/blob/master/docs/impl.png)
